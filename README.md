@@ -1,3 +1,3 @@
-# Drivers of Asymptomatic Influenza Medical Claim Coding in the United States
+## Drivers of Asymptomatic Influenza Medical Claim Coding in the United States
 
-A midterm project for MATH 5600
+A midterm project for MATH 5600.
